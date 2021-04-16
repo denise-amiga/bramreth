@@ -1,0 +1,36 @@
+[submodule "godot_2d_test"]
+	path = godot_2d_test
+	url = git@github.com:bramreth/godot_2d_test.git
+[submodule "simple_dodging_game"]
+	path = simple_dodging_game
+	url = git@github.com:bramreth/simple_dodging_game.git
+[submodule "ld45"]
+	path = ld45
+	url = git@github.com:bramreth/ld45.git
+[submodule "asteroids"]
+	path = asteroids
+	url = git@github.com:bramreth/asteroids.git
+[submodule "1981"]
+	path = 1981
+	url = git@github.com:bramreth/1981.git
+[submodule "rare"]
+	path = rare
+	url = git@github.com:bramreth/rare.git
+[submodule "benbonkjam"]
+	path = benbonkjam
+	url = git@github.com:bramreth/benbonkjam.git
+[submodule "gmtk_jam"]
+	path = gmtk_jam
+	url = git@github.com:bramreth/gmtk_jam.git
+[submodule "ld47"]
+	path = ld47
+	url = git@github.com:bramreth/ld47.git
+[submodule "godot_tutorial_content"]
+	path = godot_tutorial_content
+	url = git@github.com:bramreth/godot_tutorial_content.git
+[submodule "godot_tools"]
+	path = godot_tools
+	url = git@github.com:bramreth/godot_tools.git
+[submodule "wildjam31"]
+	path = wildjam31
+	url = git@github.com:bramreth/wildjam31.git
